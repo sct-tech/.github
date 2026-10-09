@@ -8,12 +8,12 @@
 
 **We turn your ideas into reality.**
 
-AI-powered products, web apps, and mobile platforms, built end to end from Surat, India.
+AI-native products and engineering services for growing businesses. Founded in 2023 in Surat, India.
 
 [![Website](https://img.shields.io/badge/Website-sct.technology-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sct.technology)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sct--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sct-tech)
 [![Email](https://img.shields.io/badge/Email-contactus%40sct.technology-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactus@sct.technology)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreejiconsultancytechnology)
+[![Book a call](https://img.shields.io/badge/Book_a_call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/royparth/omnikit)
 
 </div>
 
@@ -21,41 +21,54 @@ AI-powered products, web apps, and mobile platforms, built end to end from Surat
 
 ## 👋 About us
 
-**SCT** is a product-focused engineering company. We design, build and run software for businesses, from the first prototype to production. Our teams take full ownership of frontend, backend and CI/CD, so our clients get one partner for the whole product.
+**SCT** started in 2023 as a software consultancy and has grown into a product company. We build AI that talks to customers, and we take full ownership of the products we build for clients, from frontend and backend to CI/CD.
 
-Our main focus is **AI that talks to customers**: voice agents, WhatsApp and web chat automation, and AI video presence for sales and support.
+<div align="center">
+
+| 12+ | 20+ | 12+ | < 24h |
+| :---: | :---: | :---: | :---: |
+| customers | businesses using our AI solutions | countries served by OmniKit | to get a first AI agent live |
+
+</div>
 
 ## 🚀 Our products
 
-| Product | What it does | Link |
+| Product | What it does | Status |
 | --- | --- | --- |
-| **OmniKit** | AI omnichannel communication platform. Automates customer conversations across voice, WhatsApp, web chat and social channels. | [omnikit.live](https://omnikit.live) |
-| **HoloTalk** | AI video presence for demos, support and sales, made for kiosks and customer spaces. | [holotalk.sct.technology](https://holotalk.sct.technology) |
-| **SCT CRM** | Customer relationship management built for growing teams. | [crm.sct.technology](https://crm.sct.technology) |
-| **Employee Connect** | Internal communication and engagement for your workforce. | [sct.technology](https://www.sct.technology) |
+| **[OmniKit](https://omnikit.live)** | Unified AI communication platform. WhatsApp, Instagram, SMS, web chat and AI voice agents in one dashboard, with chatbots and automated campaigns. | 🟢 Live |
+| **[HoloTalk](https://www.sct.technology/holotalk/)** | AI video presence for product demos, customer support, guided onboarding and sales, built for demo zones, experience centres and retail. | 🟢 Live |
+| **[SCT CRM](https://crm.sct.technology)** | Manage leads, sales pipelines and customer conversations, with AI insights and email integration. | 🟢 Live |
+| **[Employee Connect](https://www.sct.technology/products/)** | Internal workspace for HR and teams: team chat, task management, attendance tracking and an HR dashboard. | 🟡 Coming soon |
 
 ## 🛠️ What we do
 
-- 🤖 **AI solutions**: voice agents, conversational AI, LLM integrations and real-time AI experiences
-- 🌐 **Web applications**: SaaS platforms, dashboards, e-commerce and on-demand apps
-- 📱 **Mobile apps**: cross-platform apps with React Native
-- 🎮 **Games and immersive 3D**: interactive and 3D experiences, including AI-driven characters
-- ⚙️ **DevOps and CI/CD**: automated pipelines, cloud infrastructure and zero-downtime releases
-- 🧭 **Product strategy**: rapid prototyping, roadmapping and iterative delivery
+- 🤖 **AI development**: custom AI models, system integration and ongoing support
+- 🧠 **AI automation and agents**: agents that handle customer conversations, data processing and business logic around the clock
+- 🌐 **Web development**: web applications, SaaS, CRM and ERP systems
+- 📱 **Mobile apps**: iOS and Android, from MVP to enterprise
+- 🎨 **UI/UX design**: from concept and information architecture to visual identity and interfaces
+- 👩‍💻 **Dedicated teams**: developers for short-term, long-term or permanent engagements
+- ☁️ **Cloud and DevOps**: CI/CD, containers, monitoring and zero-downtime deployments
 
 ## 🏥 Industries we serve
 
-Healthcare · Education · Customer support · Sales and retail · Enterprise operations
+Healthcare · Education · Fintech · Retail · Customer support · Enterprise operations
 
 ## 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,postgres,mongodb,redis,docker,aws,githubactions,threejs&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,flutter,docker,githubactions,aws,gcp,azure&perline=11" alt="Tech stack" />
 </p>
+
+Also: React Native · WebRTC · n8n · AutoGen · conversational and voice AI
 
 ## 🤝 Trusted by
 
-**12+ customers**, including OmniKit, Maeen Group, CareTalk, QuikLearn, iCall, Gopala, ServicePack, QuickSmart and Qaruh.
+OmniKit · Maeen Group · CareTalk · QuikLearn · iCall · Gopala · ServicePack · QuickSmart · Qaruh · WebCastle
+
+## 💡 What we value
+
+**Customer first** · **AI-native** · **Trust and security** · **Speed to value** · **Continuous innovation**
 
 ## 📬 Work with us
 
@@ -63,9 +76,13 @@ Have an idea? Let's build it together.
 
 - 🌐 [www.sct.technology](https://www.sct.technology)
 - 📧 [contactus@sct.technology](mailto:contactus@sct.technology)
+- 📅 [Book a call](https://calendly.com/royparth/omnikit)
+- 💼 [We're hiring](https://www.sct.technology/career/)
 - 📍 616, The Future Corner, Sarthana, Surat, Gujarat 395006, India
 
 <div align="center">
+
+[Instagram](https://www.instagram.com/shreejiconsultancytechnology/) · [Facebook](https://www.facebook.com/people/Shreeji-Consultancy-Technology/61585593994974/) · [LinkedIn](https://www.linkedin.com/company/sct-tech/) · [Blog](https://www.sct.technology/blog/)
 
 <sub>© Shreeji Consultancy Technology · Built with ❤️ in India</sub>
 
